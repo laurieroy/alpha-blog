@@ -1,11 +1,10 @@
-# README
+# ALPHA-BLOG README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This blog was written in Rails 6.1.0 for a Ruby on Rails Course by Mashrur Hossein, December 2020.
 
 Things you may want to cover:
 
-* Ruby version
+
 
 * System dependencies
 
