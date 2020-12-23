@@ -2,7 +2,13 @@
 
 This blog was written in Rails 6.1.0 for a Ruby on Rails Course by Mashrur Hossein, December 2020.
 
-Things you may want to cover:
+Build Back-end: Article CRUD actions
+Build Front-end: 
+Show an article -Route -Controller#action - Model/db table - View
+Show list of articles
+Add rest of REST-ful routes
+Map HTTP verbs to CRUD actions (get, post, put/patch, delete) using resources
+
 
 
 
