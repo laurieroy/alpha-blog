@@ -3,3 +3,54 @@
 // .navbar-brand {
 // font-size: 3rem;
 // }
+
+    // .bd-placeholder-img {
+    //   font-size: 1.125rem;
+    //   text-anchor: middle;
+    //   -webkit-user-select: none;
+    //   -moz-user-select: none;
+    //   -ms-user-select: none;
+    //   user-select: none;
+    // }
+
+		//     @media (min-width: 768px) {
+    //   .bd-placeholder-img-lg {
+    //     font-size: 3.5rem;
+    //   }
+    // }
+
+    #logo {
+    float: left;
+    font-size: 1.7em;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+  }
+
+  #home-container {
+    margin-top: 25px;
+  }
+
+  #page-content {
+    flex: 1 0 auto;
+    background-color: lightgrey;
+  }
+  
+  .jumbotron {
+    background-image: asset-url('jumbo-typewriter.jpg');
+    background-position: center center;
+    background-repeat: no-repat;
+    background-size: cover;
+    height: 500px;
+  }
+
+  #sticky-footer {
+    background-color: #f5f5f5;
+    flex-shrink: none;
+  }
+
+  .footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
