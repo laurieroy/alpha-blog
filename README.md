@@ -31,7 +31,7 @@ Production db: Postgres (Heroku)
 	* unauthorized routes
 * Add Permissions (roles) - admin
 	* Allow admin to edit and delete all articles
-
+* Add Article Category using TDD
 ## Published to Heroku at this point, end of tutorial
 
 ## TODO
