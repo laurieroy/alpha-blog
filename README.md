@@ -1,6 +1,14 @@
-# ALPHA-BLOG README
+# [ALPHA-BLOG README](https://laurie-blog-ruby6.herokuapp.com)
+[demo](https://laurie-blog-ruby6.herokuapp.com)
+- Signup as your own user
+- Login as test@example.com testpassword
 
 This blog was written in Rails 6.1.0 for a Ruby on Rails Course by Mashrur Hossein, December 2020.
+
+Development database: SQLite3
+
+Production db: Postgres (Heroku)
+
 
 * Build Back-end: Article CRUD actions
 * Build Front-end: 
@@ -23,6 +31,13 @@ This blog was written in Rails 6.1.0 for a Ruby on Rails Course by Mashrur Hosse
 	* unauthorized routes
 * Add Permissions (roles) - admin
 	* Allow admin to edit and delete all articles
+
+## Published to Heroku at this point, end of tutorial
+
+## TODO
+	* Add search functionality
+	* Add testing
+	
 <!-- * System dependencies -->
 
 <!-- * Configuration -->
