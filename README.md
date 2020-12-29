@@ -21,8 +21,8 @@ This blog was written in Rails 6.1.0 for a Ruby on Rails Course by Mashrur Hosse
 	* user ability to edit or delete articles unless they wrote them
 	* user ability to create article unless logged in
 	* unauthorized routes
-
-
+* Add Permissions (roles) - admin
+	* Allow admin to edit and delete all articles
 <!-- * System dependencies -->
 
 <!-- * Configuration -->
