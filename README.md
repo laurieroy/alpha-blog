@@ -3,12 +3,22 @@
 - Signup as your own user
 - Login as test@example.com testpassword
 
+Lurkers can view a list of all articles, article categories or bloggers.
+
+Logged-in users may create articles. They can also edit or delete their own articles.
+
+Admin creates the category tags, and can edit and delete other's articles. 
+
+Admin can also delete a blogger's profile, which deletes all asociated articles.
+
+The user's profile uses gravatar to link to a photo associated with their blog. If no photo is available, a default logo is shown.
+
+
 This blog was written in Rails 6.1.0 for a Ruby on Rails Course by Mashrur Hossein, December 2020.
 
-Development database: SQLite3
+Development database: SQLite3 | Production db: Postgres (Heroku)
 
-Production db: Postgres (Heroku)
-
+STEPS IN TUTORIAL:
 
 * Build Back-end: Article CRUD actions
 * Build Front-end: 
